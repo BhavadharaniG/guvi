@@ -9,7 +9,7 @@ public class vowel {
 			System.out.println("vowel");
 		}
 		else if(a>='a' && a<='z')
-			System.out.println("consonent");
+			System.out.println("consonant");
 		else{
 			System.out.println("Invalid");
 		}
